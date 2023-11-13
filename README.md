@@ -47,3 +47,5 @@ Cada pasta representa um dia específico do curso, contendo os exercícios e pro
    - Desbravando Objetos e Construindo uma Tabela de Classificação
 
 Sinta-se à vontade para explorar e compartilhar dúvidas e/ou sugestões de melhorias! ✨
+
+#imersaodev e #alura
